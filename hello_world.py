@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-""" Ce programme affiche hello world """
-print(hello world)
+username = 'master'
+
+""" Ce programme est très poli et affiche dis bonjour à son maître """
+print("hello " + username)
